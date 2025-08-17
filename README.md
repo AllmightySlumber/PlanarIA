@@ -12,4 +12,5 @@ The experiment of the biologist was the following:
 They put an earthworm called "Planaire" in french (sorry i didn't find a translation for it) in a dish with a solution made of water and a liquid form 
 molecule among 4 molecules. They put a squared paper under the dish. Then they start a timer and write down how much square the worm have crossed (to measure its movement). They do so for each molecule 3 times or so.
 
-And for our part, we try to train classifier models to recognize the molecules given the behavior. All the process is in the LocomotionPlanaire.ipynb
+And for our part, we tried to train classifier models to recognize the molecules given the behavior. All the process is in the LocomotionPlanaire.ipynb.
+Find more about our work in the python file.
