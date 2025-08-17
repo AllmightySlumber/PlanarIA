@@ -13,4 +13,4 @@ They put an earthworm called "Planaire" in french (sorry i didn't find a transla
 molecule among 4 molecules. They put a squared paper under the dish. Then they start a timer and write down how much square the worm have crossed (to measure its movement). They do so for each molecule 3 times or so.
 
 And for our part, we tried to train classifier models to recognize the molecules given the behavior. All the process is in the LocomotionPlanaire.ipynb.
-Find more about our work in the python file.
+Find more about our work in LocomotionPlanaire.ipynb.
